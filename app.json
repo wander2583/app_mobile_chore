@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "apponbit",
+    "slug": "apponbit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
